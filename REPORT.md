@@ -1,5 +1,4 @@
-# Coursera_Capstone_Report
-# Find the Senior Apartments with the Best Quality of Life in Chicago
+# Coursera_Capstone_Report: Find the Senior Apartments with the Best Quality of Life in Chicago
 For the coding part, please refer to the jupyter notebook Capstone_Project.ipynb
 
 ## Introduction
